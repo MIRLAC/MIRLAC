@@ -44,3 +44,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/MIRLAC/MIRLAC/blob/output/snake.svg)
+
